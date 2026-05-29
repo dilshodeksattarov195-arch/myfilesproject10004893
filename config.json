@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvecrypt",
+        "uuid": 18573828,
+        "checksum": "xnfwfxf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
